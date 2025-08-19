@@ -1,5 +1,5 @@
 <h1 align="center">Med Amine Laziz</h1>
-<h3 align="center">Full-Stack & Blockchain Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Full-Stack JS Web & Mobile | Blockchain & Cybersecurity Enthusiast</h3>
 
 ---
 
