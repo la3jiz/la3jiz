@@ -1,5 +1,6 @@
 <h1 align="center">Med Amine Laziz</h1>
-<h3 align="center">Full-Stack JS Web & Mobile | Blockchain & Cybersecurity Enthusiast</h3>
+<h3 align="center">Verifizierungs-Badge hinzufügen
+Full-Stack Js Web Developer - JavaScript • TypeScript • NextJS • ReactJs • Express Js | Cross Platform Mobile Developer - React Native • Flutter | Blockchain & Cybersecurity Enthusiast</h3>
 
 ---
 
